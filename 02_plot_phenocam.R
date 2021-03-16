@@ -2,6 +2,7 @@
 ##' 
 ##' @param dat  dataframe of date, gcc_mean, gcc_std
 ##' @param ...  additional graphing parameters
+
 plot_phenocam <- function(dat, pred = NULL){
   
   if(!is.null(dat)){
