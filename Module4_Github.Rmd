@@ -1,9 +1,11 @@
 ---
 title: 'Module 4: GitHub and Pair coding'
 author: 'FREC 3004: Environmental Informatics'
-output: html_document
-editor_options: 
-  markdown: 
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
+  markdown:
     wrap: 80
 ---
 
